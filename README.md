@@ -1,6 +1,6 @@
 # learning-node
 
-######Here's my progress of what I have done and have learned so far with the LinkedIn Learning node.js course.
+###### Here's my progress of what I have done and have learned so far with the LinkedIn Learning node.js course.
 
 o Understanding what node is, it's benefits and asynchronouse tasks and callbacks
 
