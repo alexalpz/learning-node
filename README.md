@@ -1,4 +1,5 @@
-# My progress and activities learning node.js
+
+# Learning node.js
 
 
 
@@ -11,3 +12,7 @@ Here's my progress of what I have done and have learned so far with the LinkedIn
 * Explored frameworks using Express and Socket.io
 * Built a demo app that uses GET and POST messaging service. Had connected it to Socket.io
 * Learned about different databases. Had set up MongoDB and managed and saved data using Mongoose.
+
+```
+-Alexa Lopez
+```
