@@ -1,4 +1,4 @@
-# learning-node
+# My progress and activities learning node.js
 
 #### Here's my progress of what I have done and have learned so far with the LinkedIn Learning node.js course. 
 (https://www.linkedin.com/learning/paths/become-a-node-js-developer?u=26888546)
