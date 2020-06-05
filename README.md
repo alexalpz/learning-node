@@ -13,7 +13,7 @@ Here's my progress of what I have learned so far with the LinkedIn Learning node
 * Built a demo app that uses GET and POST messaging service. Had connected it to Socket.io
 * Learned about different databases. Had set up MongoDB and managed and saved data using Mongoose.
 * Have worked and tested asynchronouse code using nested callbacks, promises and async/await. Was also able to filter words and not have them appear in database collections.
-
+* I've been able to work wit the Try/Catch functionality along with trow to troubleshoot errors. I have also added the Finally function as the last output. 
 
 ```
 -Alexa
