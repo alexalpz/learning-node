@@ -16,5 +16,5 @@ Here's my progress of what I have learned so far with the LinkedIn Learning node
 
 
 ```
--Alexa Lopez
+-Alexa
 ```
