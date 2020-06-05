@@ -14,6 +14,7 @@ Here's my progress of what I have learned so far with the LinkedIn Learning node
 * Learned about different databases. Had set up MongoDB through MongoDB Atlas and saved data using the Mongoose package.
 * Have worked and tested asynchronouse code using nested callbacks, promises and async/await. Was also able to filter words and not have them appear in database collections.
 * I've been able to work with Try/Catch functionality along with trow to troubleshoot errors. I have also added the Finally function as the last output. 
+* I was lectured on new methods on how to work with Visual Code Studio using the debugger tool. 
 
 ```
 -Alexa
