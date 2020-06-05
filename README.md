@@ -16,7 +16,7 @@ Here's my progress of what I have learned so far with the LinkedIn Learning node
 * I've been able to work with Try/Catch functionality along with trow to troubleshoot errors. I have also added the Finally function as the last output. 
 * I was lectured on new methods on how to work with Visual Code Studio using the debugger tool. 
 * I've installed and tested codes using **jasmine**. Did a demo test for a number calculation and one to test if status code is 200 or not. 
-* I've been introduced to test first development and have been able to target specific user messages through the server. 
+* I've been introduced to test first development and have been able to target specific user messages through the server while also testing outputs with jasmine. 
 
 ```
 -Alexa
