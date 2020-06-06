@@ -15,7 +15,7 @@ Here's my progress of what I have learned so far with LinkedIn **Learning Node.j
 * Have worked and tested asynchronouse code using nested callbacks, promises and async/await. Was also able to filter words and not have them appear in database collections.
 * I've been able to work with Try/Catch functionality along with trow to troubleshoot errors. Also added the finally function.
 * I was lectured on new methods on how to work with Visual Code Studio using the debugger tool. 
-* I've installed and tested codes using **jasmine**. Did a demo test for a number calculation and one to test if status code is 200 or not. 
+* I've installed and tested codes using **jasmine**. Worked on specs and tried various tests.
 * I've been introduced to test first development and have been able to target specific user messages through the server while also testing outputs with jasmine. 
 
 ```
