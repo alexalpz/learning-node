@@ -8,7 +8,7 @@ Here's my progress of what I have learned so far with LinkedIn **Learning Node.j
 
 * Understanding what node is, it's benefits and asynchronouse tasks and callbacks
 * Written my own module, managed third-party packages with npm and create package.json files
-* Have read, accessed and written to files
+* Have read, accessed and written to files using node
 * Explored frameworks using Express and Socket.io
 * Built a demo app that uses GET and POST messaging service. Had connected it to Socket.io. Have also sent and read data to the **Postman** software. 
 * Learned about different databases. Had set up **MongoDB** through MongoDB Atlas and saved data using the Mongoose package.
