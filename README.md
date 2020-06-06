@@ -3,7 +3,7 @@
 
 
 
-Here's my progress of what I have learned so far with the LinkedIn Learning node.js course. I've taken the time to try and really understand each lecture. Here are the exercises I've been able to work with:
+Here's my progress of what I have learned so far with LinkedIn **Learning Node.js** course. I've taken the time to try and really understand each lecture. Here are the exercises I've been able to work with:
 
 
 * Understanding what node is, it's benefits and asynchronouse tasks and callbacks
