@@ -1,5 +1,5 @@
 
-Here's my progress for understanding how to work with node using LinkedIn Learning:
+Here's my progress for understanding how to work with node using **LinkedIn Learning**:
 
 
 # Learning node.js Course
