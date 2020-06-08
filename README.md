@@ -1,6 +1,5 @@
 
----  Here's my progress for understanding how to work with node using **LinkedIn Learning**:
-
+"Brief" report of my progress learning node on **LinkedIn Learning**:
 
 # Learning node.js Course
 
@@ -23,10 +22,8 @@
 * Worked with timing functions and have created seconds delay on the terminal. 
 *
 *
-*
-*
-*
+* 
 
 ```
--Alexa
+Will update soon
 ```
