@@ -1,5 +1,5 @@
 
-Here i've recorded my learning process using LinkedIn Learning. I've taken the time to try and really understand each lecture. Here are the exercises I've been able to work with from specific courses:
+Here's my progress for understanding how to work with node using LinkedIn Learning:
 
 
 # Learning node.js Course
