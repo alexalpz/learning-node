@@ -17,9 +17,10 @@
 
 # Node.js Essential Training Course
 
-* Have worked with global objects and global processes.  Used flags to locate indexes in arrays. Also used flags to obtain values.
-* Was able to create a small questions/answers application on JavaScript with asynchronous code that involved arrays, incrementor, conditional statements and javascript template literals.
-* Worked with timing functions and have created seconds delay on the terminal. 
+* Have worked with global objects and global processes.  Used flags to locate indexes and values in arrays. 
+* Was able to create a small questions/answers application on JavaScript with asynchronous code (using standard input/output objects)  conditional statements and javascript template literals.
+* Used arugemnt variablesd with process.argv examples and collect info when loading terminal
+* Worked with timing functions, arrow functions and have created seconds delay on the terminal. 
 *
 *
 
