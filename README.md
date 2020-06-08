@@ -1,10 +1,8 @@
 
-# Learning node.js
+Here i've recorded my learning process using LinkedIn Learning. I've taken the time to try and really understand each lecture. Here are the exercises I've been able to work with from specific courses:
 
 
-
-Here's my progress of what I have learned so far with LinkedIn **Learning Node.js** course. I've taken the time to try and really understand each lecture. Here are the exercises I've been able to work with:
-
+# Learning node.js Course
 
 * Understanding what node is, it's benefits and asynchronouse tasks and callbacks
 * Written my own module, managed third-party packages with npm and create package.json files
@@ -17,6 +15,20 @@ Here's my progress of what I have learned so far with LinkedIn **Learning Node.j
 * I was lectured on new methods on how to work with Visual Code Studio using the debugger tool. 
 * I've installed and tested codes using **jasmine**. Worked on specs and tried various tests.
 * I've been introduced to "test first development" and have been able to target specific user messages from the database through the server. 
+
+# Node.js Essential Training Course
+
+* Have worked with global objects and global processes.  Used flags to locate indexes in arrays. Also used flags to obtain values.
+* Was able to create a small questions/answers application on JavaScript with asynchronous code that involved arrays, incrementor, conditional statements and javascript template literals.
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 ```
 -Alexa
