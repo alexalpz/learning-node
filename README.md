@@ -9,7 +9,7 @@ Here's my progress for understanding how to work with node using **LinkedIn Lear
 * Have read, accessed and written to files using node
 * Explored frameworks using Express and Socket.io
 * Built a demo app that uses GET and POST messaging service. Had connected it to Socket.io. Have also sent information to the **Postman** program. 
-* Learned about different databases. Had set up **MongoDB** through MongoDB Atlas and saved data using the Mongoose package.
+* Had set up **MongoDB Atlas** and saved data (id,username) using the Mongoose package.
 * Have worked and tested asynchronouse code using nested callbacks, promises and async/await. Was also able to filter words and not have them appear in database collections.
 * I've been able to work with asynchronouse Try/Catch along with "trow" to troubleshoot errors. Also added the finally function.
 * I was lectured on new methods on how to work with Visual Code Studio using the debugger tool. 
