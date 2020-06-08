@@ -20,6 +20,8 @@
 * Have worked with global objects and global processes.  Used flags to locate indexes in arrays. Also used flags to obtain values.
 * Was able to create a small questions/answers application on JavaScript with asynchronous code that involved arrays, incrementor, conditional statements and javascript template literals.
 * Worked with timing functions and have created seconds delay on the terminal. 
+*
+*
 
 
 ```
