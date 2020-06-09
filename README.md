@@ -22,7 +22,8 @@
 * Used argument variables(.argv) and collected info when loading terminal
 * Worked with timing functions, arrow functions and have created seconds delay on the terminal. 
 * I was lectured on the many uses of core modules such as path, util and v8. 
-* I learned about the readline module. Created a readline interface and had standard input/output questions and answers using it. 
+* Created functions using readline module and made a small demo in the console that asked questions after a user input (answer) has been entered.
+*
 
 
 ```
