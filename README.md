@@ -21,7 +21,7 @@
 * Was able to create a small questions/answers application on JavaScript with asynchronous code (using standard input/output objects)  conditional statements and javascript template literals.
 * Used argument variables(.argv) and collected info when loading terminal
 * Worked with timing functions, arrow functions and have created seconds delay on the terminal. 
-*
+* Lectured on the many uses of core modules such as path, util and v8. 
 *
 
 
