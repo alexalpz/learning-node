@@ -1,7 +1,7 @@
 
-"Brief" report of my progress learning node on **LinkedIn Learning**:
+### "Brief" report of my progress learning node on **LinkedIn Learning**:
 
-# Learning node.js Course
+## Learning node.js Course
 
 - Understanding what node is, it's benefits and asynchronouse tasks and callbacks
 - Written my own module, managed third-party packages with npm and create package.json files
@@ -14,7 +14,7 @@
 - I've installed and tested codes using **jasmine**. Worked on specs and tried various tests.
 - I've been introduced to "test first development" and have been able to target specific user messages from the database through the server. 
 
-# Node.js Essential Training Course
+## Node.js Essential Training Course
 
 - Have worked with global objects and global processes.  Used flags to locate indexes and values in arrays. 
 - Was able to create a small questions/answers application on JavaScript with asynchronous code (using standard input/output objects)  conditional statements and javascript template literals.
