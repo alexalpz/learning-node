@@ -10,10 +10,10 @@ const questionsArray = [
     "What are you going to do with node js?"
 ];
 
-const collectAnswers = (questionsArray, done) =>{
+collectAnswers = (questionsArray, done) =>{
     const answersArray = [];
     //destructuring questions to ask individually
-
+    
     const [firstQuestion] = questionsArray;
 
     //When user answers question it will be pushed into an array. 
@@ -30,8 +30,12 @@ const collectAnswers = (questionsArray, done) =>{
     rl.question(firstQuestion, questionAnswered);
 }
 
-collectAnswers(questionsArray, answersArray=>{
+const answerEvents = collectAnswers(questionsArray, answersArray=>{
     console.log("Thank you for your answers.");
     console.log(answersArray);
     process.exit();
 });
+
+answerEvents.on("answer",answer => 
+    console.log(`Question answered: ${answer}`)
+);
