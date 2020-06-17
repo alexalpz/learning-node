@@ -25,8 +25,9 @@
 - Created functions using readline module and made a small demo in the console that asked questions after a user input (answer) has been entered.
 - Have worked on importing and exporting modules. How I can call functions and shortcuts.
 - Created events using the events module. Used a custom event emitter. Have worked with listeners to handle multiple events. 
-- Lectured on async and syn file reading 
+- Lectured on async and syn file reading.
+- Have worked on reading text and image files. 
 
 ```
-Will update soon
+
 ```
