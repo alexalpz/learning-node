@@ -29,6 +29,7 @@
 - Have worked on reading text and image files. 
 - Learned how to write, move and remove files using asynchronouse rename function. Asynchronouse need callbacks. 
 - Learned how to write, move and remove directories using asynchronouse rename function.
+- Stream interface to read and write data.
 ```
 
 ```
