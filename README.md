@@ -27,7 +27,7 @@
 - Created events using the events module. Used a custom event emitter. Have worked with listeners to handle multiple events. 
 - Lectured on async and syn file reading.
 - Have worked on reading text and image files. 
-- Learned how to write and append files using node.
+- Learned how to write and move files using asynchronouse rename function.
 
 ```
 
