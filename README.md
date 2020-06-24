@@ -31,6 +31,7 @@
 - Learned how to write, move and remove directories using asynchronouse rename function.
 - Stream interface to read and write data through streams. Used pipe function to rewrite files. 
 - Create child process with exec
+- Create child process with spawn
 ```
 
 ```
