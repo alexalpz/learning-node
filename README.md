@@ -52,6 +52,8 @@
     - `npm run customScriptName`
   - Introduction to npx and temporarilly installing tools.
     - `npx -p @toolName ng new folderName`
+  - Other alternatives to npm
+    - `npx yarn`
 
 
 ### References 
