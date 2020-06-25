@@ -33,7 +33,7 @@
 - Creating child process with exec and spawn
 
 ## Learning npm the Node Package Manager
-
+- Creating package.json files on VS Code terminal.
 
 
 
