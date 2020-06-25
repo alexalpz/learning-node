@@ -49,7 +49,7 @@
  - Running npm audit
    - `npm audit`
   - Running scripts and custom made commands in package.json'
-   - `npm run customScriptName`
+    - `npm run customScriptName`
 
 
 ### References 
