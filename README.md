@@ -54,6 +54,7 @@
     - `npx -p @toolName ng new folderName`
   - Other alternatives to npm
     - `npx yarn`
+    - `npx -p better-npm-install ni `
 
 
 ### References 
