@@ -38,6 +38,8 @@
 - Updating **outdated** packages. `npm outdated -g`
 - Removing packages `npm uninstall package-name`
 - Lectured on semantic versioning
+- Introduction to package-lock.json and why we use it.
+- 
 
 
 ### References 
