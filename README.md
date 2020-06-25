@@ -34,13 +34,19 @@
 
 ## Learning npm the Node Package Manager
 - Creating package.json files on VS Code terminal.
-- Adding packages locally and global
+- Installing packages locally and globally
 
 
 ### References 
 - https://www.npmjs.com/
 - https://nodejs.org/en/
 - https://github.com/nodesource/distributions
+- https://docs.npmjs.com/getting-started/
+- https://stackoverflow.com/questions/19874582/change-default-global-installation-directory-for-node-js-modules-in-windows
+
+
+
+
 ```
 
 ```
