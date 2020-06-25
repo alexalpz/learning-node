@@ -48,6 +48,8 @@
    - `npm cache clean --force`
  - Running npm audit
    - `npm audit`
+  - Running scripts and custom made commands in package.json'
+   - `npm run customScriptName`
 
 
 ### References 
@@ -56,6 +58,7 @@
 - https://github.com/nodesource/distributions
 - https://docs.npmjs.com/getting-started/
 - https://stackoverflow.com/questions/19874582/change-default-global-installation-directory-for-node-js-modules-in-windows
+- https://docs.npmjs.com/misc/scripts
 
 
 
