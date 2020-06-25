@@ -37,6 +37,7 @@
 - Installing packages locally and globally
 - Updating **outdated** packages. `npm outdated -g`
 - Removing packages `npm uninstall package-name`
+- Lectured on semantic versioning
 
 
 ### References 
