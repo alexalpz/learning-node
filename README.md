@@ -35,6 +35,7 @@
 ## Learning npm the Node Package Manager
 - Creating package.json files on VS Code terminal.
 - Installing packages locally and globally
+- Updating **outdated** packages. Ex.`npm outdated -g`
 
 
 ### References 
