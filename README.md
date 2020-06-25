@@ -48,8 +48,10 @@
    - `npm cache clean --force`
  - Running npm audit
    - `npm audit`
-  - Running scripts and custom made commands in package.json'
+  - Running scripts and custom made scripts in package.json'
     - `npm run customScriptName`
+  - Introduction to npx and temporarilly installing tools.
+    - `npx -p @toolName ng new folderName`
 
 
 ### References 
@@ -59,7 +61,7 @@
 - https://docs.npmjs.com/getting-started/
 - https://stackoverflow.com/questions/19874582/change-default-global-installation-directory-for-node-js-modules-in-windows
 - https://docs.npmjs.com/misc/scripts
-
+- https://yarnpkg.com/
 
 
 
