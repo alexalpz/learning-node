@@ -41,6 +41,7 @@
 - Introduction to package-lock.json and why we use it.
 - Managing your npm chache:
    - `npm cache verify`
+   - `npm cache clean --force`
 
 
 ### References 
