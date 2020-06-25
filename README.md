@@ -34,7 +34,7 @@
 
 ## Learning npm the Node Package Manager
 - Creating package.json files on VS Code terminal.
-
+- Adding packages locally and global
 
 
 ### References 
