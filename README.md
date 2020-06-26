@@ -43,7 +43,7 @@
    - `npm uninstall package-name`
 - Lectured on semantic versioning
 - Introduction to package-lock.json and why we use it.
-- Managing your npm chache:
+- Managing your npm cache:
    - `npm cache verify`
    - `npm cache clean --force`
  - Running npm audit
@@ -60,7 +60,8 @@
 - Cloning a git repository and running it on VS  Code  - `git clone --bare https://github.com/danielkhan/building-website-nodejs-express.git .git `
 - Installed express and connecting it to a server. `localhost:3000`
 - Using middlewear `app.use` to display static content on server. 
-- How to set up ESLint `npm install -D eslint` and prettier. 
+- How to set up ESLint `npm install -D eslint` and prettier.
+- Setting up nodemon
 
 
 
