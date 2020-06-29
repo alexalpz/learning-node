@@ -65,6 +65,7 @@
 - Learning about template engines (EJS)
 - Created a routes for subpages
 - Adding "business logic"
+- Added session management middlewear `npm install cookie-session`
 
 
 
