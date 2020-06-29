@@ -62,6 +62,9 @@
 - Using middlewear `app.use` to display static content on server. 
 - How to set up ESLint `npm install -D eslint` and prettier.
 - Setting up nodemon
+- Learning about template engines (EJS)
+- Created a routes for subpages
+- Adding "business logic"
 
 
 
@@ -77,7 +80,8 @@
 
 #### Building a Website with Node.js and Express.js
 - https://github.com/danielkhan/building-website-nodejs-express
-
+- http://expressjs.com/en/resources/template-engines
+- https://ejs.co/
 ```
 
 ```
