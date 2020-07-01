@@ -67,6 +67,10 @@
 - Adding "business logic"
 - Added session management middlewear `npm install cookie-session`
 - Worked with template variables
+- Partials and list challenges
+- How to handle errors in express 
+- Creating an error page 
+- Populating the error page
 
 
 
@@ -84,6 +88,7 @@
 - https://github.com/danielkhan/building-website-nodejs-express
 - http://expressjs.com/en/resources/template-engines
 - https://ejs.co/
+- https://bootsnipp.com/snippets/qr73D
 ```
 
 ```
