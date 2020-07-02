@@ -71,6 +71,13 @@
 - How to handle errors in express 
 - Creating an error page 
 - Populating the error page
+- Created a form template, handling POST request and sanitizing user input.
+- Had a small intro to REST Api's 
+- Created and tested API endpoints
+- Added client side JavaScript
+- Updated page from REST. 
+
+* Have finished this course and will break and research parts of the website to practice and have a better understanding. *
 
 
 
@@ -89,6 +96,8 @@
 - http://expressjs.com/en/resources/template-engines
 - https://ejs.co/
 - https://bootsnipp.com/snippets/qr73D
+- https://jquery.com/
+
 ```
 
 ```
