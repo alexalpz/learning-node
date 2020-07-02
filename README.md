@@ -77,7 +77,7 @@
 - Added client side JavaScript
 - Updated page from REST. 
 
-* Have finished this course and will break and research parts of the website to practice and have a better understanding. *
+###### Ive finished this course and am currently breaking and researching blockes of code from the website to practice and have a better understanding.
 
 
 
