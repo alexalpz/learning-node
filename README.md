@@ -79,7 +79,9 @@
 
 ###### *Ive finished this course and am currently breaking and researching blocks of code from the website to practice and have a better understanding of node - Alexa.*
 
-
+## Databases for Node.js Developers
+- Small intro on relational databases and non-relational databases
+- 
 
 ### References 
 #### Learning npm the Node Package Manager
