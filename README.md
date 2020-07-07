@@ -100,6 +100,8 @@ I manually installed mongoose: `npm install -S mongoose`, uninstalled and reinst
 - https://bootsnipp.com/snippets/qr73D
 - https://jquery.com/
 
+#### Databases for Node.js Developers
+- https://github.com/docker/toolbox/releases
 ```
 
 ```
