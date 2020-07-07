@@ -81,9 +81,9 @@
 
 ## Databases for Node.js Developers
 - Small intro on relational databases and non-relational databases
+- Was having issues loading a page so found a workaround in LinkedIn comments. 
+I manually installed mongoose: `npm install -S mongoose`, uninstalled and reinstalled bcrypt `npm uninstall -S bcrypt` followed by `npm install -S bcryptand`, I ran `npm audit fix`.
 - 
-
-### References 
 #### Learning npm the Node Package Manager
 - https://www.npmjs.com/
 - https://nodejs.org/en/
