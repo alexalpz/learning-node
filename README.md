@@ -105,6 +105,7 @@ I manually installed mongoose: `npm install -S mongoose`, uninstalled and reinst
 #### Databases for Node.js Developers
 - https://github.com/docker/toolbox/releases
 - https://robomongo.org/
+- Cloning repo https://stackoverflow.com/questions/50361138/destination-path-already-exists-and-is-not-an-empty-directory
 ```
 
 ```
